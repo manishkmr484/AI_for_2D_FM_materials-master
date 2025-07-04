@@ -1,6 +1,6 @@
 # ME4101A-ShethRiyaNimish
 # Final Year Project
-
+Code is from https://github.com/mpeshel/AI_for_2D_FM_materials
 
 The package implements three different techniques to classify two dimensional materials into ferromagnetic materials, anti-ferromagnetic materials and non-magnetic materials. 
 
